@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileFilter;
 
 /**
- * Description:
+ * Description:    统计文件夹下所有pdf电子书的数量
  * Author:         杨俊
  * CreateDate:     2020/3/24 12:01
  * Version:        1.0

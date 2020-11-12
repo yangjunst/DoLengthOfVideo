@@ -1,7 +1,7 @@
 package com.maomao.utils;
 
 /**
- * Description:
+ * Description:    将选中文件以GBK批量改为UTF-8
  * Author:         杨俊
  * CreateDate:     2020/3/3 19:50
  * Version:        1.0
@@ -69,7 +69,7 @@ public class ChangeFileCodeType {
     }
 
     public static void main(String[] args) {
-        File f=new File("F:\\A架构师之路电子书\\并发多线程\\JAVA并发编程核心方法与框架-高洪岩\\Java并发编程_源码\\53521-8《Java并发编程》_源码\\newSource");
+        File f=new File("F:\\A架构师之路电子书");
         change(f);
     }
 }

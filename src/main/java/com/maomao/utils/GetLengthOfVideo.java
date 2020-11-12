@@ -9,7 +9,10 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * 计算指定文件夹下的视频文件总时长
+ * Description:    批量计算视频文件的总时长
+ * Author:         杨俊
+ * CreateDate:     2018/8/17 19:50
+ * Version:        1.0
  */
 
 public class GetLengthOfVideo
